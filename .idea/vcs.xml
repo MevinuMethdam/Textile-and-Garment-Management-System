@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Textile-and-Garment-Management-System-Back-End/Textile-and-Garment-Management-System-Back-End" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Textile-and-Garment-Management-System-Front-End 2/Textile-and-Garment-Management-System-Front-End" vcs="Git" />
   </component>
